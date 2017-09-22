@@ -1,0 +1,6 @@
+Primera prueba de Git
+Esperamos que no nos de muchas pegas
+
+Mola un montón.
+
+He añadido también un prueba.txt porque me ha dado la gana
